@@ -310,7 +310,7 @@ background-color: var(--background-primary);
   /* TADY PIŠTE STYLY PRO ŠÍŘKU NAD 800PX */
 }
 
-@media (min-width: 840px) {
+@media (min-width: 1200px) {
   .pricelist__content,
   .footer{
     gap: 6rem;

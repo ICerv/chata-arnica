@@ -6,6 +6,11 @@
   --text: #1f2403;
 }
 
+:root[data-theme='dark']{
+--background-primary: #132221;
+--background-secondary: #476462;
+--text: #e1e1e1;
+}
 /* ZÁKLADNÍ STYLY */
 
 *,
